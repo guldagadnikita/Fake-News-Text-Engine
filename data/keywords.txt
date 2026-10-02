@@ -1,0 +1,73 @@
+# ==============================================================================
+# FAKE NEWS & TEXT PROCESSING ENGINE - KEYWORD DATABASE
+# ==============================================================================
+# This file stores categorized keywords used by the rule-based detection engine.
+# It can be easily updated or expanded without modifying Python code.
+# Lines starting with '#' are comments.
+# Section headers begin with [SECTION_NAME].
+# ==============================================================================
+
+[SUSPICIOUS_WORDS]
+shocking
+miracle
+secret
+exposed
+unbelievable
+conspiracy
+hoax
+cure
+banned
+censored
+bombshell
+coverup
+proof
+guaranteed
+they don't want you to know
+illuminati
+alien
+hidden truth
+magic formula
+instant cure
+100% true
+leaked
+
+[CLICKBAIT_PHRASES]
+you won't believe
+what happens next
+mind blown
+will shock you
+doctors hate this
+one weird trick
+see what happens
+must see
+gone viral
+unreal
+jaw dropping
+this is crazy
+stop everything
+act now
+before it gets deleted
+
+[CREDIBLE_WORDS]
+according to
+spokesperson
+researchers
+published
+confirmed
+official
+statement
+reuters
+associated press
+study found
+investigation
+peer-reviewed
+data shows
+evidence suggests
+health organization
+university
+spokesman
+verified
+documented
+analysis shows
+press release
+conference

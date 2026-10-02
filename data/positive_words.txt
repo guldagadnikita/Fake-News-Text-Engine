@@ -1,0 +1,33 @@
+# Positive Words List
+# Used for keyword-based sentiment analysis
+# One word per line
+good
+great
+success
+happy
+safe
+progress
+benefit
+excellent
+positive
+growth
+breakthrough
+advance
+improvement
+opportunity
+efficient
+effective
+solution
+reliable
+trustworthy
+promising
+innovation
+achievement
+sustainable
+wonderful
+fantastic
+brilliant
+outstanding
+remarkable
+helpful
+prosperous

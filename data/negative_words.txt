@@ -1,0 +1,33 @@
+# Negative Words List
+# Used for keyword-based sentiment analysis
+# One word per line
+bad
+danger
+failure
+warning
+crisis
+problem
+risk
+loss
+decline
+corrupt
+conflict
+adverse
+severe
+fatal
+harmful
+catastrophe
+threat
+damage
+collapse
+terrible
+horrible
+disaster
+tragic
+devastating
+alarming
+disturbing
+frightening
+dreadful
+awful
+miserable

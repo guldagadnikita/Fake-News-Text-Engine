@@ -1,0 +1,23 @@
+# Clickbait Phrases List
+# Multi-word phrases that indicate clickbait content
+# One phrase per line
+you won't believe
+what happens next
+mind blown
+will shock you
+doctors hate this
+one weird trick
+see what happens
+must see
+gone viral
+unreal
+jaw dropping
+this is crazy
+stop everything
+act now
+before it gets deleted
+share now
+share this now
+you need to see this
+everyone is talking about
+they don't want you to know

@@ -1,0 +1,28 @@
+# Suspicious Words List
+# Used by the Fake News Pattern Detector
+# One word or phrase per line
+shocking
+miracle
+secret
+exposed
+unbelievable
+conspiracy
+hoax
+cure
+banned
+censored
+bombshell
+coverup
+proof
+guaranteed
+illuminati
+alien
+hidden truth
+magic formula
+instant cure
+100% true
+leaked
+breaking
+urgent
+amazing
+viral
